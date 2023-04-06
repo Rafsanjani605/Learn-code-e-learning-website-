@@ -1,0 +1,53 @@
+[
+    {
+        "id" : 1,
+        "coure_name" : "Web design",
+        "price" : "100",
+        "description" : "At ipsum tempor ipsum sanctus sadipscing erat. Sit sadipscing ipsum diam sea consetetur vero justo stet, duo at lorem ea sit consetetur sadipscing eirmod. Et at clita amet rebum erat, est eos labore lorem justo accusam eirmod et ipsum. Labore takimata lorem ea accusam nonumy dolore, dolores voluptua magna est elitr takimata. Dolor sit eos voluptua et amet invidunt clita ea, dolor aliquyam stet sanctus et lorem lorem justo, est et ut diam et no aliquyam diam amet sanctus. No.",
+        "picture" : "../images/courses/course-1.jpg"
+    },
+    {
+        "id" : 2,
+        "coure_name" : "Sketch - Mobile app",
+        "price" : "200",
+        "description" : "Et sed vero dolores consetetur sanctus. Sea consetetur elitr gubergren takimata erat dolor dolor sanctus. Dolor voluptua ipsum sed sed lorem lorem sit aliquyam, sit sed vero sadipscing lorem ea sed eos, at voluptua duo tempor kasd, dolor dolor et sea tempor invidunt consetetur tempor nonumy eos, ipsum tempor est.",
+        "picture" : "../images/courses/course-2.jpg"
+    },
+    {
+        "id" : 3,
+        "coure_name" : "Photoshop",
+        "price" : "300",
+        "description" : "Et dolor aliquyam consetetur sanctus sea et consetetur invidunt sadipscing. Et invidunt sadipscing diam at erat ipsum at sanctus sit. Ut tempor diam ipsum sit stet ipsum nonumy. Labore et sit amet stet at et voluptua diam. Duo sadipscing voluptua.",
+        "picture" : "../images/courses/course-3.jpg"
+    },
+    {
+        "id" : 4,
+        "coure_name" : "React",
+        "price" : "400",
+        "description" : "Gubergren justo takimata est lorem duo invidunt erat. Ipsum sadipscing elitr voluptua justo dolor nonumy voluptua sanctus, sadipscing no tempor et et clita kasd lorem justo lorem, stet sadipscing rebum dolor rebum accusam ut, ut eirmod eirmod et voluptua nonumy..",
+        "picture" : "../images/courses/course-4.jpg"
+    },
+    {
+        "id" : 5,
+        "coure_name" : "Java Script",
+        "price" : "100",
+        "description" : "Nonumy sadipscing amet at ea accusam takimata. Sadipscing voluptua elitr accusam sanctus sanctus duo amet. Voluptua invidunt sed et consetetur vero eirmod, diam tempor et stet tempor dolore eos eirmod eirmod elitr, dolores diam labore elitr stet, justo labore amet consetetur sea, consetetur diam justo kasd eos et sed, elitr elitr rebum et erat eirmod elitr gubergren. Invidunt voluptua amet.",
+        "picture" : "../images/courses/course-5.jpg"
+    },
+    {
+        "id" : 6,
+        "coure_name" : "Matchine learning",
+        "price" : "200",
+        "description" : "Takimata erat et duo invidunt et ipsum at diam duo amet, invidunt ut eos et sit erat. Amet tempor et dolores et labore et sed sanctus no. Dolor diam sed invidunt elitr. Amet no dolor magna stet sed et dolor sea sanctus, diam et ipsum justo duo et dolores. Et sadipscing sea dolores ea, amet sit takimata duo accusam duo.",
+        "picture" : "../images/courses/course-6.jpg"
+    },
+    {
+        "id" : 7,
+        "coure_name" : "python",
+        "price" : "100",
+        "description" : "Et dolore dolores lorem est sadipscing clita gubergren vero. Est et erat takimata sit invidunt sed rebum sanctus. Sed et aliquyam gubergren consetetur, eirmod gubergren sit kasd diam diam ipsum, clita sea voluptua takimata at, ut dolor dolore aliquyam lorem.",
+        "picture" : "../images/courses/course-7.jpg"
+    }
+   
+
+]
